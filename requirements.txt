@@ -1,0 +1,13 @@
+anthropic==0.34.2
+cohere==5.9.4
+llamaapi==0.1.36
+matplotlib==3.9.2
+networkx==3.3
+numpy==2.1.1
+openai==1.46.1
+pandas==2.2.2
+plotly==5.23.0
+protobuf==5.28.2
+scikit_learn==1.5.2
+seaborn==0.13.2
+tqdm==4.66.4
